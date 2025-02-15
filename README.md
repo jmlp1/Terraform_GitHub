@@ -43,5 +43,5 @@ variables:
 8. **Apply Terraform Plan**
 9. **Configure VM with Ansible**
 10. **Generate Ansible inventory and configure the VM.**
-=======
+
 
