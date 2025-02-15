@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Azure DevOps Pipeline for Terraform Deployment
 
 This document provides a guide to setting up and running an Azure DevOps pipeline for Terraform deployment. The pipeline includes stages for installing Terraform, initializing the backend, planning, applying the Terraform configuration, and configuring the VM with Ansible.
@@ -45,5 +44,4 @@ variables:
 9. **Configure VM with Ansible**
 10. **Generate Ansible inventory and configure the VM.**
 =======
-# Terraform_GitHub
->>>>>>> 3fab3a29ad8de041d25577932eea89962adf2efe
+
